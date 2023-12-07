@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignorar la carpeta env/
+env/
+
+# Ignorar las carpetas __pycache__/
+__pycache__/
+
+# Ignorar el archivo config.py
+config.py
