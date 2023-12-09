@@ -64,5 +64,3 @@ async def uptade_one_student(id : str, data : UpdateStudentModel):
     else:
         response = ErrorResponseModel("An error occurred.", 404, "Student doesn't exist.")
     return response
-
-
